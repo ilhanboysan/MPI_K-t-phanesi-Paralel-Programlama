@@ -1,0 +1,15 @@
+874.258.958 işlem sayısı
+normal
+Toplam alan: 0.3333333290
+Toplam sure: 9.8730000000 saniye
+paralel
+Toplam alan: 0.0052083332
+Toplam sure: 2.3890000000 saniye
+
+575.000.000 işlem sayısı
+normal
+Toplam alan: 0.3333333298
+Toplam sure: 6.9660000000 saniye
+paralel
+Toplam alan: 0.0052083333
+Toplam sure: 1.5350000000 saniye

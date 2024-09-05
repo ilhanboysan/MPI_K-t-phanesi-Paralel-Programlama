@@ -1,0 +1,43 @@
+1.000.000 işlem sayısı
+normal
+Toplam alan: 0.3333333333
+Toplam sure: 0.0110000000 saniye
+paralel
+Toplam alan: 0.3333333333
+Toplam sure: 0.0020000000 saniye
+
+35.000.000 işlem sayısı
+normal
+Toplam alan: 0.3333333332
+Toplam sure: 0.4750000000 saniye
+paralel
+Toplam alan: 0.3333333333
+Toplam sure: 0.0750000000 saniye
+
+575.000.000 işlem sayısı
+normal
+Toplam alan: 0.3333333298
+Toplam sure: 6.9660000000 saniye
+paralel
+Toplam alan: 0.3333333323
+Toplam sure: 1.4690000000 saniye
+
+
+874.258.958 işlem sayısı
+normal
+Toplam alan: 0.3333333290
+Toplam sure: 9.8730000000 saniye
+paralel
+Toplam alan: 0.3333333248
+Toplam sure: 2.3350000000 saniye
+
+14.258.958.441 işlem sayısı
+normal
+Toplam alan: 0.3333333240
+Toplam sure: 14.3380000000 saniye
+paralel
+Toplam alan: 0.3333333311
+Toplam sure: 5.0910000000 saniye
+
+
+34.747.222.111

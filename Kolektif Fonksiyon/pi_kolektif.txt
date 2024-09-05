@@ -1,0 +1,23 @@
+pi sayısı(1.000.000 nokta)
+normal
+Pi sayisi: 3.14424
+Toplam sure: 0.17 saniye
+paralel
+Pi sayisi: 3.13785
+Toplam sure: 0.029 saniye
+
+pi sayısı(10.000.000 nokta)
+normal
+Pi sayisi: 3.14158
+Toplam sure: 1.86 saniye
+paralel
+Pi sayisi: 3.141
+Toplam sure: 0.285 saniye
+
+pi sayısı(100.000.000 nokta)
+normal
+Pi sayisi: 3.14175
+Toplam sure: 15.644 saniye
+paralel
+Pi sayisi: 3.1417
+Toplam sure: 3.641 saniye

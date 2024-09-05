@@ -1,0 +1,31 @@
+MONTE CARLO YÖNTEMİ
+pi sayısı(100.000 nokta)
+normal
+Pi sayisi: 3.14444
+Toplam sure: 0.015 saniye
+paralel
+Pi sayisi: 3.14944
+Toplam sure: 0.004 saniye
+
+pi sayısı(1.000.000 nokta)
+normal
+Pi sayisi: 3.14424
+Toplam sure: 0.17 saniye
+paralel
+Pi sayisi: 3.14069
+Toplam sure: 0.028 saniye
+
+pi sayısı(10.000.000 nokta)
+normal
+Pi sayisi: 3.14158
+Toplam sure: 1.86 saniye
+paralel
+Pi sayisi: 3.1408
+Toplam sure: 0.275 saniye
+pi sayısı(100.000.000 nokta)
+normal
+Pi sayisi: 3.14175
+Toplam sure: 15.644 saniye
+paralel
+Pi sayisi: 3.14163
+Toplam sure: 3.262 saniye

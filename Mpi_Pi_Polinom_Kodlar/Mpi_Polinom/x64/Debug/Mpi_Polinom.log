@@ -1,0 +1,4 @@
+﻿  Mpi_Polinom.cpp
+C:\Users\ilhan\source\repos\Mpi_Polinom\Mpi_Polinom.cpp(26,19): warning C4305: 'initializing': truncation from '__int64' to 'int'
+C:\Users\ilhan\source\repos\Mpi_Polinom\Mpi_Polinom.cpp(26,21): warning C4309: 'initializing': truncation of constant value
+  Mpi_Polinom.vcxproj -> C:\Users\ilhan\source\repos\Mpi_Polinom\x64\Debug\Mpi_Polinom.exe
